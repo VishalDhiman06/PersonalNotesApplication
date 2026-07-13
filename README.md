@@ -56,8 +56,9 @@ app/
 
 <p align="center">
   <img src="output1.png" width="700" alt="Personal Notes Application"/>
-  <img src="output2.png" width="700" alt="Personal Notes Application"/>
-  <img src="output3.png" width="700" alt="Personal Notes Application"/>
+   <img src="output2.png" width="700" alt="Personal Notes Application"/>
+    <img src="output3.png" width="700" alt="Personal Notes Application"/>
+  
 </p>
 
 ---
